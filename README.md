@@ -11,7 +11,7 @@
 * [海报设计](http://www.3visual3.com/poster/)
 ---
 ### PPT
-* [HiPPTer](http://www.hippter.com/)PPT导航
+* [HiPPTer](http://www.hippter.com/) | PPT导航
 * []()
 * []()
 * []()
